@@ -1,0 +1,619 @@
+Date,Description,Amount,Category,Month,Month_Num,Year,Type
+2024-01-01,Unknown Transfer,45000.0,Shopping,January 2024,1,2024,Debit
+2024-01-02,Domino's,244.97,Food & Dining,January 2024,1,2024,Debit
+2024-01-02,Netflix,184.6,Entertainment,January 2024,1,2024,Debit
+2024-01-02,OYO Rooms,3331.67,Travel,January 2024,1,2024,Debit
+2024-01-03,Yatra,1497.52,Travel,January 2024,1,2024,Debit
+2024-01-03,Petrol Pump,150.51,Transport,January 2024,1,2024,Debit
+2024-01-04,Meesho,707.64,Shopping,January 2024,1,2024,Debit
+2024-01-04,Subway,552.1,Food & Dining,January 2024,1,2024,Debit
+2024-01-04,Bus Pass,152.47,Transport,January 2024,1,2024,Debit
+2024-01-05,Ola,226.72,Transport,January 2024,1,2024,Debit
+2024-01-06,Ola,261.33,Transport,January 2024,1,2024,Debit
+2024-01-06,Yoga Studio,161.49,Health,January 2024,1,2024,Debit
+2024-01-06,Society Maintenance,1884.95,Bills & Rent,January 2024,1,2024,Debit
+2024-01-06,Udemy,10.0,Education,January 2024,1,2024,Debit
+2024-01-06,Reliance Trends,597.89,Shopping,January 2024,1,2024,Debit
+2024-01-07,Hotstar,29.39,Entertainment,January 2024,1,2024,Debit
+2024-01-07,MakeMyTrip,218.76,Transport,January 2024,1,2024,Debit
+2024-01-08,Uber,259.47,Transport,January 2024,1,2024,Debit
+2024-01-08,Meesho,1116.02,Shopping,January 2024,1,2024,Debit
+2024-01-08,House Rent,3386.74,Bills & Rent,January 2024,1,2024,Debit
+2024-01-09,Auto Rickshaw,47.87,Transport,January 2024,1,2024,Debit
+2024-01-09,IRCTC,208.93,Transport,January 2024,1,2024,Debit
+2024-01-09,Spotify,145.23,Entertainment,January 2024,1,2024,Debit
+2024-01-09,Myntra,854.95,Shopping,January 2024,1,2024,Debit
+2024-01-10,IRCTC,273.5,Transport,January 2024,1,2024,Debit
+2024-01-10,Bus Pass,98.77,Transport,January 2024,1,2024,Debit
+2024-01-11,Subway,299.79,Food & Dining,January 2024,1,2024,Debit
+2024-01-12,Rapido,253.4,Transport,January 2024,1,2024,Debit
+2024-01-12,Blinkit,405.81,Food & Dining,January 2024,1,2024,Debit
+2024-01-12,Lenskart,342.79,Entertainment,January 2024,1,2024,Debit
+2024-01-13,Udemy,494.43,Education,January 2024,1,2024,Debit
+2024-01-13,Bus Pass,268.62,Transport,January 2024,1,2024,Debit
+2024-01-14,Myntra,898.63,Shopping,January 2024,1,2024,Debit
+2024-01-14,Uber,218.89,Transport,January 2024,1,2024,Debit
+2024-01-14,Society Maintenance,2189.04,Bills & Rent,January 2024,1,2024,Debit
+2024-01-15,Auto Rickshaw,200.56,Transport,January 2024,1,2024,Debit
+2024-01-15,Zomato,344.03,Food & Dining,January 2024,1,2024,Debit
+2024-01-15,Reliance Trends,856.14,Shopping,January 2024,1,2024,Debit
+2024-01-15,Reliance Trends,888.33,Shopping,January 2024,1,2024,Debit
+2024-01-18,Rapido,291.67,Transport,January 2024,1,2024,Debit
+2024-01-18,IndiGo Airlines,2616.47,Travel,January 2024,1,2024,Debit
+2024-01-19,Ola,12.79,Transport,January 2024,1,2024,Debit
+2024-01-20,Domino's,317.23,Food & Dining,January 2024,1,2024,Debit
+2024-01-20,KFC,421.11,Food & Dining,January 2024,1,2024,Debit
+2024-01-21,McDonald's,127.62,Food & Dining,January 2024,1,2024,Debit
+2024-01-22,Swiggy,291.32,Food & Dining,January 2024,1,2024,Debit
+2024-01-22,Cafe Coffee Day,233.82,Food & Dining,January 2024,1,2024,Debit
+2024-01-24,McDonald's,413.78,Food & Dining,January 2024,1,2024,Debit
+2024-01-24,Cafe Coffee Day,345.11,Food & Dining,January 2024,1,2024,Debit
+2024-01-25,Udemy,217.08,Education,January 2024,1,2024,Debit
+2024-01-26,BookmyShow,490.23,Entertainment,January 2024,1,2024,Debit
+2024-01-26,Auto Rickshaw,133.79,Transport,January 2024,1,2024,Debit
+2024-01-26,PVR Cinemas,62.65,Entertainment,January 2024,1,2024,Debit
+2024-01-26,Bus Pass,211.62,Transport,January 2024,1,2024,Debit
+2024-01-27,Swiggy,172.51,Food & Dining,January 2024,1,2024,Debit
+2024-01-27,Uber,377.01,Transport,January 2024,1,2024,Debit
+2024-01-27,PVR Cinemas,318.09,Entertainment,January 2024,1,2024,Debit
+2024-01-27,Unacademy,921.19,Education,January 2024,1,2024,Debit
+2024-01-28,JIO Boardband,2922.99,Bills & Rent,January 2024,1,2024,Debit
+2024-01-28,McDonald's,540.07,Food & Dining,January 2024,1,2024,Debit
+2024-01-28,Gym Membership,965.95,Health,January 2024,1,2024,Debit
+2024-01-28,Flipkart,485.63,Shopping,January 2024,1,2024,Debit
+2024-02-01,Ajio,768.24,Shopping,February 2024,2,2024,Debit
+2024-02-01,Blinkit,355.62,Food & Dining,February 2024,2,2024,Debit
+2024-02-01,Airtel,2214.85,Bills & Rent,February 2024,2,2024,Debit
+2024-02-01,Bus Pass,179.42,Transport,February 2024,2,2024,Debit
+2024-02-01,Society Maintenance,2369.53,Bills & Rent,February 2024,2,2024,Debit
+2024-02-02,YouTube Premium,129.95,Entertainment,February 2024,2,2024,Debit
+2024-02-03,House Rent,1333.46,Bills & Rent,February 2024,2,2024,Debit
+2024-02-03,Society Maintenance,2863.68,Bills & Rent,February 2024,2,2024,Debit
+2024-02-03,Gas Bill,2493.05,Bills & Rent,February 2024,2,2024,Debit
+2024-02-03,Uber,145.74,Transport,February 2024,2,2024,Debit
+2024-02-03,Domino's,110.58,Food & Dining,February 2024,2,2024,Debit
+2024-02-05,Luxury Purchase,28000.0,Shopping,February 2024,2,2024,Debit
+2024-02-05,MakeMyTrip,155.3,Transport,February 2024,2,2024,Debit
+2024-02-05,McDonald's,631.04,Food & Dining,February 2024,2,2024,Debit
+2024-02-06,Blinkit,504.63,Food & Dining,February 2024,2,2024,Debit
+2024-02-06,Ajio,702.1,Shopping,February 2024,2,2024,Debit
+2024-02-07,Zomato,167.06,Food & Dining,February 2024,2,2024,Debit
+2024-02-07,Blinkit,457.27,Food & Dining,February 2024,2,2024,Debit
+2024-02-08,Uber,230.94,Transport,February 2024,2,2024,Debit
+2024-02-08,Swiggy,272.35,Food & Dining,February 2024,2,2024,Debit
+2024-02-08,PVR Cinemas,316.15,Entertainment,February 2024,2,2024,Debit
+2024-02-09,Cult.fit,824.31,Health,February 2024,2,2024,Debit
+2024-02-09,IRCTC,236.86,Transport,February 2024,2,2024,Debit
+2024-02-10,Zomato,512.7,Food & Dining,February 2024,2,2024,Debit
+2024-02-10,Apollo Pharmacy,743.11,Health,February 2024,2,2024,Debit
+2024-02-11,Bus Pass,282.48,Transport,February 2024,2,2024,Debit
+2024-02-16,Swiggy,103.83,Food & Dining,February 2024,2,2024,Debit
+2024-02-16,Bus Pass,78.41,Transport,February 2024,2,2024,Debit
+2024-02-16,Blinkit,628.47,Food & Dining,February 2024,2,2024,Debit
+2024-02-16,Myntra,1126.42,Shopping,February 2024,2,2024,Debit
+2024-02-17,IRCTC,141.06,Transport,February 2024,2,2024,Debit
+2024-02-18,KFC,172.9,Food & Dining,February 2024,2,2024,Debit
+2024-02-19,Flipkart,833.2,Shopping,February 2024,2,2024,Debit
+2024-02-19,Domino's,159.71,Food & Dining,February 2024,2,2024,Debit
+2024-02-20,Bus Pass,134.0,Transport,February 2024,2,2024,Debit
+2024-02-21,H&M,899.26,Shopping,February 2024,2,2024,Debit
+2024-02-21,Gas Bill,2614.36,Bills & Rent,February 2024,2,2024,Debit
+2024-02-22,Yoga Studio,48.93,Health,February 2024,2,2024,Debit
+2024-02-22,H&M,693.26,Shopping,February 2024,2,2024,Debit
+2024-02-23,KFC,194.93,Food & Dining,February 2024,2,2024,Debit
+2024-02-23,Domino's,646.07,Food & Dining,February 2024,2,2024,Debit
+2024-02-24,YouTube Premium,558.78,Entertainment,February 2024,2,2024,Debit
+2024-02-24,IRCTC,307.84,Transport,February 2024,2,2024,Debit
+2024-02-25,Bus Pass,403.89,Transport,February 2024,2,2024,Debit
+2024-02-25,Rapido,394.63,Transport,February 2024,2,2024,Debit
+2024-02-25,LinkedIn Learning,280.11,Education,February 2024,2,2024,Debit
+2024-02-25,Unacademy,558.6,Education,February 2024,2,2024,Debit
+2024-02-25,Spotify,674.08,Entertainment,February 2024,2,2024,Debit
+2024-02-26,Cult.fit,224.87,Health,February 2024,2,2024,Debit
+2024-02-27,KFC,493.63,Food & Dining,February 2024,2,2024,Debit
+2024-02-27,Myntra,912.86,Shopping,February 2024,2,2024,Debit
+2024-02-27,Rapido,107.83,Transport,February 2024,2,2024,Debit
+2024-03-02,Water Bill,3585.37,Bills & Rent,March 2024,3,2024,Debit
+2024-03-02,JIO Boardband,3181.75,Bills & Rent,March 2024,3,2024,Debit
+2024-03-02,Petrol Pump,10.0,Transport,March 2024,3,2024,Debit
+2024-03-02,Subway,316.94,Food & Dining,March 2024,3,2024,Debit
+2024-03-03,BookmyShow,225.16,Entertainment,March 2024,3,2024,Debit
+2024-03-05,Udemy,935.77,Education,March 2024,3,2024,Debit
+2024-03-06,IRCTC,20.78,Transport,March 2024,3,2024,Debit
+2024-03-06,Uber,393.75,Transport,March 2024,3,2024,Debit
+2024-03-06,Swiggy,567.79,Food & Dining,March 2024,3,2024,Debit
+2024-03-06,Hotel Booking,5028.96,Travel,March 2024,3,2024,Debit
+2024-03-06,Ajio,890.71,Shopping,March 2024,3,2024,Debit
+2024-03-07,KFC,359.11,Food & Dining,March 2024,3,2024,Debit
+2024-03-08,Ajio,742.25,Shopping,March 2024,3,2024,Debit
+2024-03-08,Medplus,1112.77,Health,March 2024,3,2024,Debit
+2024-03-08,Domino's,485.92,Food & Dining,March 2024,3,2024,Debit
+2024-03-08,Bus Pass,249.35,Transport,March 2024,3,2024,Debit
+2024-03-09,MakeMyTrip,202.06,Transport,March 2024,3,2024,Debit
+2024-03-09,BookmyShow,679.22,Entertainment,March 2024,3,2024,Debit
+2024-03-09,Cafe Coffee Day,206.94,Food & Dining,March 2024,3,2024,Debit
+2024-03-10,NPTEL,648.38,Education,March 2024,3,2024,Debit
+2024-03-11,D-Mart,800.22,Shopping,March 2024,3,2024,Debit
+2024-03-11,Foreign Transaction,15000.0,Travel,March 2024,3,2024,Debit
+2024-03-13,McDonald's,212.56,Food & Dining,March 2024,3,2024,Debit
+2024-03-13,PVR Cinemas,179.23,Entertainment,March 2024,3,2024,Debit
+2024-03-17,Electricity Board,2619.44,Bills & Rent,March 2024,3,2024,Debit
+2024-03-17,Uber,138.82,Transport,March 2024,3,2024,Debit
+2024-03-17,Ajio,1024.64,Shopping,March 2024,3,2024,Debit
+2024-03-18,Udemy,315.43,Education,March 2024,3,2024,Debit
+2024-03-20,Ola,151.51,Transport,March 2024,3,2024,Debit
+2024-03-20,Electricity Board,2767.77,Bills & Rent,March 2024,3,2024,Debit
+2024-03-20,Amazon Prime,14.07,Entertainment,March 2024,3,2024,Debit
+2024-03-21,Ola,23.05,Transport,March 2024,3,2024,Debit
+2024-03-22,Book Store,515.22,Education,March 2024,3,2024,Debit
+2024-03-23,Zomato,258.99,Food & Dining,March 2024,3,2024,Debit
+2024-03-23,Subway,167.32,Food & Dining,March 2024,3,2024,Debit
+2024-03-24,Blinkit,363.67,Food & Dining,March 2024,3,2024,Debit
+2024-03-24,Bus Pass,101.81,Transport,March 2024,3,2024,Debit
+2024-03-24,Flipkart,548.74,Shopping,March 2024,3,2024,Debit
+2024-03-24,KFC,268.12,Food & Dining,March 2024,3,2024,Debit
+2024-03-24,Ola,58.87,Transport,March 2024,3,2024,Debit
+2024-03-25,Electricity Board,2949.46,Bills & Rent,March 2024,3,2024,Debit
+2024-03-25,Hotel Booking,4265.6,Travel,March 2024,3,2024,Debit
+2024-03-27,Bus Pass,401.25,Transport,March 2024,3,2024,Debit
+2024-03-27,Spotify,118.76,Entertainment,March 2024,3,2024,Debit
+2024-03-27,Dr Reddy's,980.8,Health,March 2024,3,2024,Debit
+2024-03-27,Domino's,255.61,Food & Dining,March 2024,3,2024,Debit
+2024-03-27,Ola,98.71,Transport,March 2024,3,2024,Debit
+2024-03-28,House Rent,2139.87,Bills & Rent,March 2024,3,2024,Debit
+2024-04-01,H&M,698.7,Shopping,April 2024,4,2024,Debit
+2024-04-02,Auto Rickshaw,318.52,Transport,April 2024,4,2024,Debit
+2024-04-02,Coursera,19.09,Education,April 2024,4,2024,Debit
+2024-04-03,Society Maintenance,2039.59,Bills & Rent,April 2024,4,2024,Debit
+2024-04-03,Swiggy,127.77,Food & Dining,April 2024,4,2024,Debit
+2024-04-03,Reliance Trends,743.37,Shopping,April 2024,4,2024,Debit
+2024-04-03,Petrol Pump,111.1,Transport,April 2024,4,2024,Debit
+2024-04-03,Ola,142.91,Transport,April 2024,4,2024,Debit
+2024-04-03,Dr Reddy's,796.77,Health,April 2024,4,2024,Debit
+2024-04-05,Meesho,918.02,Shopping,April 2024,4,2024,Debit
+2024-04-05,Apollo Pharmacy,736.7,Health,April 2024,4,2024,Debit
+2024-04-06,Auto Rickshaw,342.95,Transport,April 2024,4,2024,Debit
+2024-04-07,MakeMyTrip,275.0,Transport,April 2024,4,2024,Debit
+2024-04-07,Uber,122.71,Transport,April 2024,4,2024,Debit
+2024-04-08,Uber,218.73,Transport,April 2024,4,2024,Debit
+2024-04-09,MakeMyTrip,253.66,Transport,April 2024,4,2024,Debit
+2024-04-11,Hotstar,372.27,Entertainment,April 2024,4,2024,Debit
+2024-04-12,Swiggy,768.48,Food & Dining,April 2024,4,2024,Debit
+2024-04-12,Ola,64.45,Transport,April 2024,4,2024,Debit
+2024-04-13,Auto Rickshaw,100.29,Transport,April 2024,4,2024,Debit
+2024-04-13,Gym Membership,240.63,Health,April 2024,4,2024,Debit
+2024-04-13,Meesho,700.73,Shopping,April 2024,4,2024,Debit
+2024-04-14,Ola,128.0,Transport,April 2024,4,2024,Debit
+2024-04-15,Netflix,649.0,Entertainment,April 2024,4,2024,Debit
+2024-04-15,IRCTC,276.46,Transport,April 2024,4,2024,Debit
+2024-04-15,Gas Bill,3791.91,Bills & Rent,April 2024,4,2024,Debit
+2024-04-17,Gas Bill,2630.32,Bills & Rent,April 2024,4,2024,Debit
+2024-04-17,Swiggy,284.81,Food & Dining,April 2024,4,2024,Debit
+2024-04-18,Yatra,73.73,Travel,April 2024,4,2024,Debit
+2024-04-18,Medplus,57.98,Health,April 2024,4,2024,Debit
+2024-04-18,IndiGo Airlines,1036.54,Travel,April 2024,4,2024,Debit
+2024-04-18,Udemy,1005.41,Education,April 2024,4,2024,Debit
+2024-04-19,Auto Rickshaw,368.4,Transport,April 2024,4,2024,Debit
+2024-04-19,MakeMyTrip,343.21,Transport,April 2024,4,2024,Debit
+2024-04-20,McDonald's,325.09,Food & Dining,April 2024,4,2024,Debit
+2024-04-20,KFC,581.62,Food & Dining,April 2024,4,2024,Debit
+2024-04-21,Medplus,1350.47,Health,April 2024,4,2024,Debit
+2024-04-21,Auto Rickshaw,96.1,Transport,April 2024,4,2024,Debit
+2024-04-21,Myntra,808.36,Shopping,April 2024,4,2024,Debit
+2024-04-21,Lenskart,644.08,Entertainment,April 2024,4,2024,Debit
+2024-04-22,Cafe Coffee Day,1000.8,Food & Dining,April 2024,4,2024,Debit
+2024-04-22,IndiGo Airlines,3879.17,Travel,April 2024,4,2024,Debit
+2024-04-25,D-Mart,626.53,Shopping,April 2024,4,2024,Debit
+2024-04-26,MakeMyTrip,178.94,Transport,April 2024,4,2024,Debit
+2024-04-26,McDonald's,186.36,Food & Dining,April 2024,4,2024,Debit
+2024-04-26,IRCTC,10.0,Transport,April 2024,4,2024,Debit
+2024-04-26,Amazon Prime,360.57,Entertainment,April 2024,4,2024,Debit
+2024-04-27,Ola,204.46,Transport,April 2024,4,2024,Debit
+2024-04-27,KFC,428.41,Food & Dining,April 2024,4,2024,Debit
+2024-05-01,Bus Pass,266.11,Transport,May 2024,5,2024,Debit
+2024-05-01,McDonald's,30.18,Food & Dining,May 2024,5,2024,Debit
+2024-05-02,Petrol Pump,307.01,Transport,May 2024,5,2024,Debit
+2024-05-02,Zomato,184.42,Food & Dining,May 2024,5,2024,Debit
+2024-05-02,Petrol Pump,143.54,Transport,May 2024,5,2024,Debit
+2024-05-03,Cafe Coffee Day,653.25,Food & Dining,May 2024,5,2024,Debit
+2024-05-04,Uber,325.46,Transport,May 2024,5,2024,Debit
+2024-05-04,Water Bill,2868.5,Bills & Rent,May 2024,5,2024,Debit
+2024-05-04,Hotel Booking,6459.89,Travel,May 2024,5,2024,Debit
+2024-05-04,D-Mart,687.21,Shopping,May 2024,5,2024,Debit
+2024-05-05,Auto Rickshaw,112.41,Transport,May 2024,5,2024,Debit
+2024-05-05,MakeMyTrip,179.26,Transport,May 2024,5,2024,Debit
+2024-05-05,Subway,253.12,Food & Dining,May 2024,5,2024,Debit
+2024-05-06,Bus Pass,243.03,Transport,May 2024,5,2024,Debit
+2024-05-08,Blinkit,457.1,Food & Dining,May 2024,5,2024,Debit
+2024-05-10,Zomato,412.49,Food & Dining,May 2024,5,2024,Debit
+2024-05-10,Ajio,736.55,Shopping,May 2024,5,2024,Debit
+2024-05-10,Hotel Booking,3484.05,Travel,May 2024,5,2024,Debit
+2024-05-11,D-Mart,843.99,Shopping,May 2024,5,2024,Debit
+2024-05-11,Rapido,228.37,Transport,May 2024,5,2024,Debit
+2024-05-13,Cult.fit,456.72,Health,May 2024,5,2024,Debit
+2024-05-13,Cafe Coffee Day,393.74,Food & Dining,May 2024,5,2024,Debit
+2024-05-13,Swiggy,76.28,Food & Dining,May 2024,5,2024,Debit
+2024-05-14,Spotify,203.87,Entertainment,May 2024,5,2024,Debit
+2024-05-14,Spotify,463.12,Entertainment,May 2024,5,2024,Debit
+2024-05-15,Amazon,805.06,Shopping,May 2024,5,2024,Debit
+2024-05-15,Water Bill,1764.37,Bills & Rent,May 2024,5,2024,Debit
+2024-05-15,Rapido,31.05,Transport,May 2024,5,2024,Debit
+2024-05-15,Apollo Pharmacy,960.75,Health,May 2024,5,2024,Debit
+2024-05-15,Rapido,375.43,Transport,May 2024,5,2024,Debit
+2024-05-15,MakeMyTrip,484.71,Transport,May 2024,5,2024,Debit
+2024-05-16,Auto Rickshaw,238.21,Transport,May 2024,5,2024,Debit
+2024-05-17,MakeMyTrip,14.39,Transport,May 2024,5,2024,Debit
+2024-05-17,H&M,777.02,Shopping,May 2024,5,2024,Debit
+2024-05-17,JIO Boardband,2525.0,Bills & Rent,May 2024,5,2024,Debit
+2024-05-17,Yoga Studio,580.88,Health,May 2024,5,2024,Debit
+2024-05-18,Ajio,914.62,Shopping,May 2024,5,2024,Debit
+2024-05-19,Petrol Pump,147.67,Transport,May 2024,5,2024,Debit
+2024-05-19,Subway,287.4,Food & Dining,May 2024,5,2024,Debit
+2024-05-20,Society Maintenance,2954.5,Bills & Rent,May 2024,5,2024,Debit
+2024-05-20,Netflix,649.0,Entertainment,May 2024,5,2024,Debit
+2024-05-20,Bus Pass,162.71,Transport,May 2024,5,2024,Debit
+2024-05-20,Udemy,562.01,Education,May 2024,5,2024,Debit
+2024-05-21,Auto Rickshaw,317.95,Transport,May 2024,5,2024,Debit
+2024-05-22,Uber,117.85,Transport,May 2024,5,2024,Debit
+2024-05-22,Flipkart,627.91,Shopping,May 2024,5,2024,Debit
+2024-05-22,IndiGo Airlines,6546.25,Travel,May 2024,5,2024,Debit
+2024-05-22,IRCTC,287.14,Transport,May 2024,5,2024,Debit
+2024-05-23,Bus Pass,67.5,Transport,May 2024,5,2024,Debit
+2024-05-23,Amazon Prime,845.18,Entertainment,May 2024,5,2024,Debit
+2024-05-23,Apollo Pharmacy,525.24,Health,May 2024,5,2024,Debit
+2024-05-24,YouTube Premium,500.05,Entertainment,May 2024,5,2024,Debit
+2024-05-25,Ajio,792.48,Shopping,May 2024,5,2024,Debit
+2024-05-26,Flipkart,873.93,Shopping,May 2024,5,2024,Debit
+2024-05-26,Amazon,787.77,Shopping,May 2024,5,2024,Debit
+2024-05-26,Book Store,31.85,Education,May 2024,5,2024,Debit
+2024-05-27,Swiggy,620.77,Food & Dining,May 2024,5,2024,Debit
+2024-05-31,Cafe Coffee Day,345.71,Food & Dining,May 2024,5,2024,Debit
+2024-05-31,Society Maintenance,2696.16,Bills & Rent,May 2024,5,2024,Debit
+2024-05-31,Hotstar,685.94,Entertainment,May 2024,5,2024,Debit
+2024-06-01,Gas Bill,2368.54,Bills & Rent,June 2024,6,2024,Debit
+2024-06-01,Rapido,425.2,Transport,June 2024,6,2024,Debit
+2024-06-01,McDonald's,292.12,Food & Dining,June 2024,6,2024,Debit
+2024-06-02,House Rent,1612.85,Bills & Rent,June 2024,6,2024,Debit
+2024-06-02,Ajio,883.56,Shopping,June 2024,6,2024,Debit
+2024-06-02,Petrol Pump,472.06,Transport,June 2024,6,2024,Debit
+2024-06-02,Ola,162.17,Transport,June 2024,6,2024,Debit
+2024-06-03,Amazon,924.19,Shopping,June 2024,6,2024,Debit
+2024-06-03,Subway,98.23,Food & Dining,June 2024,6,2024,Debit
+2024-06-03,Spotify,777.44,Entertainment,June 2024,6,2024,Debit
+2024-06-03,Medplus,1142.26,Health,June 2024,6,2024,Debit
+2024-06-03,KFC,531.57,Food & Dining,June 2024,6,2024,Debit
+2024-06-04,Auto Rickshaw,131.1,Transport,June 2024,6,2024,Debit
+2024-06-04,Rapido,112.25,Transport,June 2024,6,2024,Debit
+2024-06-04,Flipkart,865.22,Shopping,June 2024,6,2024,Debit
+2024-06-05,IRCTC,43.3,Transport,June 2024,6,2024,Debit
+2024-06-05,Gym Membership,243.66,Health,June 2024,6,2024,Debit
+2024-06-05,Subway,348.24,Food & Dining,June 2024,6,2024,Debit
+2024-06-05,Gas Bill,2962.52,Bills & Rent,June 2024,6,2024,Debit
+2024-06-06,D-Mart,898.99,Shopping,June 2024,6,2024,Debit
+2024-06-06,Spotify,607.04,Entertainment,June 2024,6,2024,Debit
+2024-06-07,Meesho,863.83,Shopping,June 2024,6,2024,Debit
+2024-06-08,Uber,271.23,Transport,June 2024,6,2024,Debit
+2024-06-08,Auto Rickshaw,93.2,Transport,June 2024,6,2024,Debit
+2024-06-08,Blinkit,492.29,Food & Dining,June 2024,6,2024,Debit
+2024-06-09,MakeMyTrip,107.76,Transport,June 2024,6,2024,Debit
+2024-06-09,Gym Membership,102.14,Health,June 2024,6,2024,Debit
+2024-06-09,IndiGo Airlines,3947.77,Travel,June 2024,6,2024,Debit
+2024-06-09,Netflix,500.51,Entertainment,June 2024,6,2024,Debit
+2024-06-10,McDonald's,384.79,Food & Dining,June 2024,6,2024,Debit
+2024-06-11,Unacademy,219.05,Education,June 2024,6,2024,Debit
+2024-06-11,Coursera,197.42,Education,June 2024,6,2024,Debit
+2024-06-12,D-Mart,1005.12,Shopping,June 2024,6,2024,Debit
+2024-06-12,IRCTC,374.35,Transport,June 2024,6,2024,Debit
+2024-06-12,Cult.fit,947.84,Health,June 2024,6,2024,Debit
+2024-06-12,NPTEL,760.35,Education,June 2024,6,2024,Debit
+2024-06-12,Rapido,212.13,Transport,June 2024,6,2024,Debit
+2024-06-13,Amazon,830.02,Shopping,June 2024,6,2024,Debit
+2024-06-13,Bus Pass,143.19,Transport,June 2024,6,2024,Debit
+2024-06-13,MakeMyTrip,257.26,Transport,June 2024,6,2024,Debit
+2024-06-14,Hotstar,288.84,Entertainment,June 2024,6,2024,Debit
+2024-06-15,Hotel Booking,4462.02,Travel,June 2024,6,2024,Debit
+2024-06-16,Ola,234.18,Transport,June 2024,6,2024,Debit
+2024-06-18,Subway,440.28,Food & Dining,June 2024,6,2024,Debit
+2024-06-18,Zomato,457.78,Food & Dining,June 2024,6,2024,Debit
+2024-06-19,Ola,124.97,Transport,June 2024,6,2024,Debit
+2024-06-19,Uber,59.75,Transport,June 2024,6,2024,Debit
+2024-06-20,Airtel,2641.37,Bills & Rent,June 2024,6,2024,Debit
+2024-06-21,IRCTC,157.3,Transport,June 2024,6,2024,Debit
+2024-06-21,BookmyShow,721.74,Entertainment,June 2024,6,2024,Debit
+2024-06-21,Blinkit,226.58,Food & Dining,June 2024,6,2024,Debit
+2024-06-22,Reliance Trends,896.69,Shopping,June 2024,6,2024,Debit
+2024-06-22,Netflix,652.47,Entertainment,June 2024,6,2024,Debit
+2024-06-23,Swiggy,65.83,Food & Dining,June 2024,6,2024,Debit
+2024-06-23,Bus Pass,260.17,Transport,June 2024,6,2024,Debit
+2024-06-24,ATM Withdrawl,20000.0,Shopping,June 2024,6,2024,Debit
+2024-06-25,Cult.fit,290.48,Health,June 2024,6,2024,Debit
+2024-06-25,Airbnb,2245.16,Travel,June 2024,6,2024,Debit
+2024-06-30,Blinkit,361.14,Food & Dining,June 2024,6,2024,Debit
+2024-06-30,Rapido,75.5,Transport,June 2024,6,2024,Debit
+2024-06-30,Reliance Trends,640.82,Shopping,June 2024,6,2024,Debit
+2024-07-01,Cult.fit,1055.66,Health,July 2024,7,2024,Debit
+2024-07-02,Gas Bill,2988.32,Bills & Rent,July 2024,7,2024,Debit
+2024-07-02,D-Mart,769.42,Shopping,July 2024,7,2024,Debit
+2024-07-03,Reliance Trends,834.78,Shopping,July 2024,7,2024,Debit
+2024-07-05,Zomato,92.01,Food & Dining,July 2024,7,2024,Debit
+2024-07-05,Myntra,930.98,Shopping,July 2024,7,2024,Debit
+2024-07-05,Cafe Coffee Day,44.05,Food & Dining,July 2024,7,2024,Debit
+2024-07-07,H&M,712.6,Shopping,July 2024,7,2024,Debit
+2024-07-07,Amazon,707.28,Shopping,July 2024,7,2024,Debit
+2024-07-08,Coursera,76.09,Education,July 2024,7,2024,Debit
+2024-07-09,Hotel Booking,4068.95,Travel,July 2024,7,2024,Debit
+2024-07-09,Meesho,899.99,Shopping,July 2024,7,2024,Debit
+2024-07-10,Domino's,444.34,Food & Dining,July 2024,7,2024,Debit
+2024-07-12,MakeMyTrip,74.89,Transport,July 2024,7,2024,Debit
+2024-07-14,Yoga Studio,10.0,Health,July 2024,7,2024,Debit
+2024-07-14,JIO Boardband,2603.54,Bills & Rent,July 2024,7,2024,Debit
+2024-07-14,Domino's,318.4,Food & Dining,July 2024,7,2024,Debit
+2024-07-14,Cafe Coffee Day,568.84,Food & Dining,July 2024,7,2024,Debit
+2024-07-14,House Rent,3077.67,Bills & Rent,July 2024,7,2024,Debit
+2024-07-15,Petrol Pump,94.46,Transport,July 2024,7,2024,Debit
+2024-07-15,Hotstar,164.9,Entertainment,July 2024,7,2024,Debit
+2024-07-16,IRCTC,181.71,Transport,July 2024,7,2024,Debit
+2024-07-16,Air India,3577.1,Travel,July 2024,7,2024,Debit
+2024-07-16,Auto Rickshaw,315.56,Transport,July 2024,7,2024,Debit
+2024-07-17,Ola,138.12,Transport,July 2024,7,2024,Debit
+2024-07-17,Hotstar,481.53,Entertainment,July 2024,7,2024,Debit
+2024-07-17,Amazon Prime,87.22,Entertainment,July 2024,7,2024,Debit
+2024-07-18,Auto Rickshaw,192.77,Transport,July 2024,7,2024,Debit
+2024-07-18,Uber,126.24,Transport,July 2024,7,2024,Debit
+2024-07-19,YouTube Premium,129.73,Entertainment,July 2024,7,2024,Debit
+2024-07-20,Uber,233.45,Transport,July 2024,7,2024,Debit
+2024-07-20,Stationery Shop,563.31,Education,July 2024,7,2024,Debit
+2024-07-21,Bus Pass,193.18,Transport,July 2024,7,2024,Debit
+2024-07-21,Zomato,210.36,Food & Dining,July 2024,7,2024,Debit
+2024-07-22,Swiggy,250.92,Food & Dining,July 2024,7,2024,Debit
+2024-07-22,Ajio,858.24,Shopping,July 2024,7,2024,Debit
+2024-07-22,Lenskart,553.98,Entertainment,July 2024,7,2024,Debit
+2024-07-22,Stationery Shop,726.91,Education,July 2024,7,2024,Debit
+2024-07-23,McDonald's,557.77,Food & Dining,July 2024,7,2024,Debit
+2024-07-23,IndiGo Airlines,3306.57,Travel,July 2024,7,2024,Debit
+2024-07-24,Myntra,715.46,Shopping,July 2024,7,2024,Debit
+2024-07-24,Cafe Coffee Day,264.62,Food & Dining,July 2024,7,2024,Debit
+2024-07-25,Swiggy,147.58,Food & Dining,July 2024,7,2024,Debit
+2024-07-25,McDonald's,19.03,Food & Dining,July 2024,7,2024,Debit
+2024-07-26,Swiggy,90.98,Food & Dining,July 2024,7,2024,Debit
+2024-07-26,Bus Pass,13.44,Transport,July 2024,7,2024,Debit
+2024-07-29,Zomato,8500.0,Food & Dining,July 2024,7,2024,Debit
+2024-07-31,Amazon,742.39,Shopping,July 2024,7,2024,Debit
+2024-07-31,Rapido,242.12,Transport,July 2024,7,2024,Debit
+2024-08-01,Udemy,781.49,Education,August 2024,8,2024,Debit
+2024-08-02,Rapido,62.9,Transport,August 2024,8,2024,Debit
+2024-08-05,Amazon,918.29,Shopping,August 2024,8,2024,Debit
+2024-08-06,Society Maintenance,2526.86,Bills & Rent,August 2024,8,2024,Debit
+2024-08-07,D-Mart,1075.82,Shopping,August 2024,8,2024,Debit
+2024-08-07,Domino's,384.17,Food & Dining,August 2024,8,2024,Debit
+2024-08-07,Cult.fit,455.42,Health,August 2024,8,2024,Debit
+2024-08-08,Subway,345.83,Food & Dining,August 2024,8,2024,Debit
+2024-08-08,IRCTC,161.03,Transport,August 2024,8,2024,Debit
+2024-08-08,Amazon,715.49,Shopping,August 2024,8,2024,Debit
+2024-08-09,Bus Pass,11.2,Transport,August 2024,8,2024,Debit
+2024-08-10,YouTube Premium,507.4,Entertainment,August 2024,8,2024,Debit
+2024-08-11,Subway,570.61,Food & Dining,August 2024,8,2024,Debit
+2024-08-14,Dr Reddy's,521.6,Health,August 2024,8,2024,Debit
+2024-08-15,Flipkart,728.66,Shopping,August 2024,8,2024,Debit
+2024-08-15,Cafe Coffee Day,621.83,Food & Dining,August 2024,8,2024,Debit
+2024-08-15,Cafe Coffee Day,411.56,Food & Dining,August 2024,8,2024,Debit
+2024-08-15,D-Mart,998.6,Shopping,August 2024,8,2024,Debit
+2024-08-16,Blinkit,580.29,Food & Dining,August 2024,8,2024,Debit
+2024-08-16,Netflix,632.56,Entertainment,August 2024,8,2024,Debit
+2024-08-17,Bus Pass,106.62,Transport,August 2024,8,2024,Debit
+2024-08-18,LinkedIn Learning,210.86,Education,August 2024,8,2024,Debit
+2024-08-19,Gas Bill,2982.88,Bills & Rent,August 2024,8,2024,Debit
+2024-08-19,IRCTC,92.91,Transport,August 2024,8,2024,Debit
+2024-08-19,Auto Rickshaw,368.46,Transport,August 2024,8,2024,Debit
+2024-08-19,Zomato,348.35,Food & Dining,August 2024,8,2024,Debit
+2024-08-20,Ola,306.44,Transport,August 2024,8,2024,Debit
+2024-08-21,MakeMyTrip,239.2,Transport,August 2024,8,2024,Debit
+2024-08-21,Airtel,1978.84,Bills & Rent,August 2024,8,2024,Debit
+2024-08-22,Uber,202.18,Transport,August 2024,8,2024,Debit
+2024-08-22,OYO Rooms,2467.91,Travel,August 2024,8,2024,Debit
+2024-08-23,Cafe Coffee Day,712.19,Food & Dining,August 2024,8,2024,Debit
+2024-08-23,KFC,10.0,Food & Dining,August 2024,8,2024,Debit
+2024-08-24,Yoga Studio,306.82,Health,August 2024,8,2024,Debit
+2024-08-24,BookmyShow,451.92,Entertainment,August 2024,8,2024,Debit
+2024-08-24,Petrol Pump,276.79,Transport,August 2024,8,2024,Debit
+2024-08-24,Petrol Pump,110.92,Transport,August 2024,8,2024,Debit
+2024-08-24,Zomato,313.2,Food & Dining,August 2024,8,2024,Debit
+2024-08-25,Uber,374.46,Transport,August 2024,8,2024,Debit
+2024-08-25,MakeMyTrip,194.64,Transport,August 2024,8,2024,Debit
+2024-08-29,Petrol Pump,100.26,Transport,August 2024,8,2024,Debit
+2024-08-31,Reliance Trends,715.37,Shopping,August 2024,8,2024,Debit
+2024-08-31,McDonald's,563.1,Food & Dining,August 2024,8,2024,Debit
+2024-08-31,Airtel,2598.82,Bills & Rent,August 2024,8,2024,Debit
+2024-09-01,IRCTC,35.11,Transport,September 2024,9,2024,Debit
+2024-09-01,Cafe Coffee Day,262.05,Food & Dining,September 2024,9,2024,Debit
+2024-09-01,Amazon,699.19,Shopping,September 2024,9,2024,Debit
+2024-09-02,UPI Payment,10000.0,Shopping,September 2024,9,2024,Debit
+2024-09-02,Airtel,2387.45,Bills & Rent,September 2024,9,2024,Debit
+2024-09-02,Petrol Pump,350.46,Transport,September 2024,9,2024,Debit
+2024-09-02,Spotify,410.82,Entertainment,September 2024,9,2024,Debit
+2024-09-02,Water Bill,2527.36,Bills & Rent,September 2024,9,2024,Debit
+2024-09-03,Hotstar,675.41,Entertainment,September 2024,9,2024,Debit
+2024-09-04,Domino's,869.54,Food & Dining,September 2024,9,2024,Debit
+2024-09-05,Airtel,1987.95,Bills & Rent,September 2024,9,2024,Debit
+2024-09-06,Electricity Board,2458.59,Bills & Rent,September 2024,9,2024,Debit
+2024-09-07,Domino's,296.74,Food & Dining,September 2024,9,2024,Debit
+2024-09-07,Unacademy,652.18,Education,September 2024,9,2024,Debit
+2024-09-08,Bus Pass,168.35,Transport,September 2024,9,2024,Debit
+2024-09-08,Ola,474.64,Transport,September 2024,9,2024,Debit
+2024-09-09,Blinkit,366.46,Food & Dining,September 2024,9,2024,Debit
+2024-09-10,Netflix,904.22,Entertainment,September 2024,9,2024,Debit
+2024-09-10,Blinkit,394.43,Food & Dining,September 2024,9,2024,Debit
+2024-09-10,Air India,4461.12,Travel,September 2024,9,2024,Debit
+2024-09-10,Zomato,52.89,Food & Dining,September 2024,9,2024,Debit
+2024-09-11,Bus Pass,80.93,Transport,September 2024,9,2024,Debit
+2024-09-12,Swiggy,219.93,Food & Dining,September 2024,9,2024,Debit
+2024-09-13,Apollo Pharmacy,928.19,Health,September 2024,9,2024,Debit
+2024-09-13,BookmyShow,242.25,Entertainment,September 2024,9,2024,Debit
+2024-09-14,Petrol Pump,143.96,Transport,September 2024,9,2024,Debit
+2024-09-15,Bus Pass,52.04,Transport,September 2024,9,2024,Debit
+2024-09-15,IRCTC,83.43,Transport,September 2024,9,2024,Debit
+2024-09-17,MakeMyTrip,186.52,Transport,September 2024,9,2024,Debit
+2024-09-19,Blinkit,556.37,Food & Dining,September 2024,9,2024,Debit
+2024-09-19,Ola,214.7,Transport,September 2024,9,2024,Debit
+2024-09-20,Swiggy,312.63,Food & Dining,September 2024,9,2024,Debit
+2024-09-21,Petrol Pump,113.34,Transport,September 2024,9,2024,Debit
+2024-09-21,Myntra,731.51,Shopping,September 2024,9,2024,Debit
+2024-09-21,BookmyShow,536.17,Entertainment,September 2024,9,2024,Debit
+2024-09-22,Rapido,105.22,Transport,September 2024,9,2024,Debit
+2024-09-22,Amazon,715.57,Shopping,September 2024,9,2024,Debit
+2024-09-23,Spotify,657.62,Entertainment,September 2024,9,2024,Debit
+2024-09-23,KFC,254.25,Food & Dining,September 2024,9,2024,Debit
+2024-09-24,Cult.fit,625.45,Health,September 2024,9,2024,Debit
+2024-09-24,Bus Pass,160.11,Transport,September 2024,9,2024,Debit
+2024-09-24,Gas Bill,1920.63,Bills & Rent,September 2024,9,2024,Debit
+2024-09-24,OYO Rooms,2201.62,Travel,September 2024,9,2024,Debit
+2024-09-29,Water Bill,2376.06,Bills & Rent,September 2024,9,2024,Debit
+2024-09-29,Blinkit,605.69,Food & Dining,September 2024,9,2024,Debit
+2024-09-29,KFC,355.75,Food & Dining,September 2024,9,2024,Debit
+2024-09-29,Myntra,713.19,Shopping,September 2024,9,2024,Debit
+2024-09-29,McDonald's,479.1,Food & Dining,September 2024,9,2024,Debit
+2024-09-30,Lenskart,237.51,Entertainment,September 2024,9,2024,Debit
+2024-09-30,IRCTC,409.3,Transport,September 2024,9,2024,Debit
+2024-09-30,House Rent,2544.52,Bills & Rent,September 2024,9,2024,Debit
+2024-10-01,Uber,131.22,Transport,October 2024,10,2024,Debit
+2024-10-01,Apollo Pharmacy,1200.42,Health,October 2024,10,2024,Debit
+2024-10-02,Rapido,126.43,Transport,October 2024,10,2024,Debit
+2024-10-03,Gym Membership,370.44,Health,October 2024,10,2024,Debit
+2024-10-04,Auto Rickshaw,244.56,Transport,October 2024,10,2024,Debit
+2024-10-05,KFC,359.29,Food & Dining,October 2024,10,2024,Debit
+2024-10-05,Book Store,1089.6,Education,October 2024,10,2024,Debit
+2024-10-07,UPI Payment,10000.0,Shopping,October 2024,10,2024,Debit
+2024-10-08,Meesho,939.91,Shopping,October 2024,10,2024,Debit
+2024-10-08,Ola,64.23,Transport,October 2024,10,2024,Debit
+2024-10-09,Rapido,164.28,Transport,October 2024,10,2024,Debit
+2024-10-10,Ajio,810.67,Shopping,October 2024,10,2024,Debit
+2024-10-10,Swiggy,388.22,Food & Dining,October 2024,10,2024,Debit
+2024-10-11,Medplus,1255.25,Health,October 2024,10,2024,Debit
+2024-10-12,Petrol Pump,185.75,Transport,October 2024,10,2024,Debit
+2024-10-13,Netflix,96.06,Entertainment,October 2024,10,2024,Debit
+2024-10-13,Subway,782.65,Food & Dining,October 2024,10,2024,Debit
+2024-10-14,IRCTC,203.29,Transport,October 2024,10,2024,Debit
+2024-10-14,BookmyShow,438.56,Entertainment,October 2024,10,2024,Debit
+2024-10-14,Ajio,851.7,Shopping,October 2024,10,2024,Debit
+2024-10-15,Society Maintenance,2362.36,Bills & Rent,October 2024,10,2024,Debit
+2024-10-15,OYO Rooms,8444.56,Travel,October 2024,10,2024,Debit
+2024-10-15,Domino's,477.78,Food & Dining,October 2024,10,2024,Debit
+2024-10-16,Society Maintenance,3038.73,Bills & Rent,October 2024,10,2024,Debit
+2024-10-16,KFC,241.62,Food & Dining,October 2024,10,2024,Debit
+2024-10-17,YouTube Premium,103.34,Entertainment,October 2024,10,2024,Debit
+2024-10-18,Amazon Prime,360.34,Entertainment,October 2024,10,2024,Debit
+2024-10-18,Dr Reddy's,18.63,Health,October 2024,10,2024,Debit
+2024-10-19,Petrol Pump,151.92,Transport,October 2024,10,2024,Debit
+2024-10-19,Dr Reddy's,414.24,Health,October 2024,10,2024,Debit
+2024-10-20,MakeMyTrip,24.12,Transport,October 2024,10,2024,Debit
+2024-10-23,Spotify,634.31,Entertainment,October 2024,10,2024,Debit
+2024-10-23,Bus Pass,401.62,Transport,October 2024,10,2024,Debit
+2024-10-24,Meesho,829.2,Shopping,October 2024,10,2024,Debit
+2024-10-24,Myntra,887.74,Shopping,October 2024,10,2024,Debit
+2024-10-24,Rapido,109.61,Transport,October 2024,10,2024,Debit
+2024-10-28,Cafe Coffee Day,174.74,Food & Dining,October 2024,10,2024,Debit
+2024-10-28,Cafe Coffee Day,357.53,Food & Dining,October 2024,10,2024,Debit
+2024-10-31,MakeMyTrip,306.52,Transport,October 2024,10,2024,Debit
+2024-10-31,Spotify,10.0,Entertainment,October 2024,10,2024,Debit
+2024-11-02,D-Mart,688.01,Shopping,November 2024,11,2024,Debit
+2024-11-02,McDonald's,401.6,Food & Dining,November 2024,11,2024,Debit
+2024-11-03,Petrol Pump,258.17,Transport,November 2024,11,2024,Debit
+2024-11-03,Zomato,128.54,Food & Dining,November 2024,11,2024,Debit
+2024-11-04,Bus Pass,157.67,Transport,November 2024,11,2024,Debit
+2024-11-04,Petrol Pump,287.42,Transport,November 2024,11,2024,Debit
+2024-11-04,Petrol Pump,347.92,Transport,November 2024,11,2024,Debit
+2024-11-05,Ola,187.16,Transport,November 2024,11,2024,Debit
+2024-11-05,Petrol Pump,290.96,Transport,November 2024,11,2024,Debit
+2024-11-06,Petrol Pump,177.11,Transport,November 2024,11,2024,Debit
+2024-11-06,Unacademy,578.2,Education,November 2024,11,2024,Debit
+2024-11-07,IRCTC,258.03,Transport,November 2024,11,2024,Debit
+2024-11-08,Bus Pass,102.37,Transport,November 2024,11,2024,Debit
+2024-11-08,Uber,246.3,Transport,November 2024,11,2024,Debit
+2024-11-08,Dr Reddy's,331.0,Health,November 2024,11,2024,Debit
+2024-11-08,Flipkart,925.13,Shopping,November 2024,11,2024,Debit
+2024-11-09,Uber,368.08,Transport,November 2024,11,2024,Debit
+2024-11-09,Petrol Pump,10.0,Transport,November 2024,11,2024,Debit
+2024-11-10,Stationery Shop,492.33,Education,November 2024,11,2024,Debit
+2024-11-10,Zomato,533.86,Food & Dining,November 2024,11,2024,Debit
+2024-11-11,Cash Withdrawl,25000.0,Bills & Rent,November 2024,11,2024,Debit
+2024-11-11,Yatra,5845.46,Travel,November 2024,11,2024,Debit
+2024-11-11,H&M,769.11,Shopping,November 2024,11,2024,Debit
+2024-11-11,Apollo Pharmacy,313.93,Health,November 2024,11,2024,Debit
+2024-11-11,Rapido,256.22,Transport,November 2024,11,2024,Debit
+2024-11-12,Subway,167.64,Food & Dining,November 2024,11,2024,Debit
+2024-11-13,Amazon Prime,1048.39,Entertainment,November 2024,11,2024,Debit
+2024-11-13,KFC,382.55,Food & Dining,November 2024,11,2024,Debit
+2024-11-14,Domino's,120.7,Food & Dining,November 2024,11,2024,Debit
+2024-11-16,House Rent,1959.04,Bills & Rent,November 2024,11,2024,Debit
+2024-11-16,Subway,72.93,Food & Dining,November 2024,11,2024,Debit
+2024-11-17,Amazon Prime,503.05,Entertainment,November 2024,11,2024,Debit
+2024-11-18,Reliance Trends,867.71,Shopping,November 2024,11,2024,Debit
+2024-11-18,Blinkit,228.1,Food & Dining,November 2024,11,2024,Debit
+2024-11-20,Amazon,890.4,Shopping,November 2024,11,2024,Debit
+2024-11-20,Swiggy,443.82,Food & Dining,November 2024,11,2024,Debit
+2024-11-20,House Rent,1381.4,Bills & Rent,November 2024,11,2024,Debit
+2024-11-21,Swiggy,250.83,Food & Dining,November 2024,11,2024,Debit
+2024-11-22,Water Bill,1498.85,Bills & Rent,November 2024,11,2024,Debit
+2024-11-22,Petrol Pump,417.19,Transport,November 2024,11,2024,Debit
+2024-11-22,PVR Cinemas,256.81,Entertainment,November 2024,11,2024,Debit
+2024-11-22,IRCTC,110.44,Transport,November 2024,11,2024,Debit
+2024-11-22,LinkedIn Learning,648.21,Education,November 2024,11,2024,Debit
+2024-11-23,Myntra,664.66,Shopping,November 2024,11,2024,Debit
+2024-11-27,Ola,109.35,Transport,November 2024,11,2024,Debit
+2024-11-27,H&M,874.16,Shopping,November 2024,11,2024,Debit
+2024-11-27,MakeMyTrip,164.29,Transport,November 2024,11,2024,Debit
+2024-11-29,Practo,780.44,Health,November 2024,11,2024,Debit
+2024-11-30,House Rent,3233.91,Bills & Rent,November 2024,11,2024,Debit
+2024-11-30,McDonald's,340.62,Food & Dining,November 2024,11,2024,Debit
+2024-12-01,Flipkart,577.89,Shopping,December 2024,12,2024,Debit
+2024-12-02,Amazon Prime,573.56,Entertainment,December 2024,12,2024,Debit
+2024-12-02,IRCTC,532.53,Transport,December 2024,12,2024,Debit
+2024-12-02,Society Maintenance,3066.08,Bills & Rent,December 2024,12,2024,Debit
+2024-12-02,MakeMyTrip,101.91,Transport,December 2024,12,2024,Debit
+2024-12-03,Auto Rickshaw,234.3,Transport,December 2024,12,2024,Debit
+2024-12-03,Subway,579.75,Food & Dining,December 2024,12,2024,Debit
+2024-12-04,Ola,257.31,Transport,December 2024,12,2024,Debit
+2024-12-05,Airtel,2623.71,Bills & Rent,December 2024,12,2024,Debit
+2024-12-05,Society Maintenance,2299.3,Bills & Rent,December 2024,12,2024,Debit
+2024-12-05,NPTEL,185.3,Education,December 2024,12,2024,Debit
+2024-12-05,McDonald's,38.68,Food & Dining,December 2024,12,2024,Debit
+2024-12-06,McDonald's,445.41,Food & Dining,December 2024,12,2024,Debit
+2024-12-07,Cafe Coffee Day,280.15,Food & Dining,December 2024,12,2024,Debit
+2024-12-07,Netflix,588.22,Entertainment,December 2024,12,2024,Debit
+2024-12-07,Uber,176.29,Transport,December 2024,12,2024,Debit
+2024-12-08,Swiggy,264.38,Food & Dining,December 2024,12,2024,Debit
+2024-12-08,Subway,93.4,Food & Dining,December 2024,12,2024,Debit
+2024-12-08,Blinkit,582.17,Food & Dining,December 2024,12,2024,Debit
+2024-12-10,Meesho,808.1,Shopping,December 2024,12,2024,Debit
+2024-12-10,IRCTC,185.81,Transport,December 2024,12,2024,Debit
+2024-12-11,Bus Pass,126.13,Transport,December 2024,12,2024,Debit
+2024-12-11,Auto Rickshaw,245.67,Transport,December 2024,12,2024,Debit
+2024-12-11,Netflix,66.3,Entertainment,December 2024,12,2024,Debit
+2024-12-11,OYO Rooms,3841.94,Travel,December 2024,12,2024,Debit
+2024-12-11,Swiggy,285.67,Food & Dining,December 2024,12,2024,Debit
+2024-12-13,McDonald's,10.0,Food & Dining,December 2024,12,2024,Debit
+2024-12-13,Gym Membership,260.49,Health,December 2024,12,2024,Debit
+2024-12-14,BookmyShow,308.95,Entertainment,December 2024,12,2024,Debit
+2024-12-14,Uber,196.72,Transport,December 2024,12,2024,Debit
+2024-12-16,MakeMyTrip,181.12,Transport,December 2024,12,2024,Debit
+2024-12-16,Ola,208.65,Transport,December 2024,12,2024,Debit
+2024-12-17,Cleartrip,5752.23,Travel,December 2024,12,2024,Debit
+2024-12-17,Stationery Shop,517.74,Education,December 2024,12,2024,Debit
+2024-12-17,D-Mart,816.92,Shopping,December 2024,12,2024,Debit
+2024-12-17,Bus Pass,213.19,Transport,December 2024,12,2024,Debit
+2024-12-18,Zomato,365.36,Food & Dining,December 2024,12,2024,Debit
+2024-12-19,Ola,69.94,Transport,December 2024,12,2024,Debit
+2024-12-19,Auto Rickshaw,67.38,Transport,December 2024,12,2024,Debit
+2024-12-20,BookmyShow,644.9,Entertainment,December 2024,12,2024,Debit
+2024-12-20,IRCTC,72.11,Transport,December 2024,12,2024,Debit
+2024-12-20,Domino's,556.06,Food & Dining,December 2024,12,2024,Debit
+2024-12-20,Domino's,765.35,Food & Dining,December 2024,12,2024,Debit
+2024-12-21,Blinkit,91.06,Food & Dining,December 2024,12,2024,Debit
+2024-12-21,Swiggy,280.27,Food & Dining,December 2024,12,2024,Debit
+2024-12-21,Apollo Pharmacy,261.22,Health,December 2024,12,2024,Debit
+2024-12-22,Bus Pass,420.41,Transport,December 2024,12,2024,Debit
+2024-12-22,Airbnb,238.65,Travel,December 2024,12,2024,Debit
+2024-12-22,Cult.fit,1307.32,Health,December 2024,12,2024,Debit
+2024-12-22,Medplus,1237.8,Health,December 2024,12,2024,Debit
+2024-12-22,MakeMyTrip,97.49,Transport,December 2024,12,2024,Debit
+2024-12-23,MakeMyTrip,55.81,Transport,December 2024,12,2024,Debit
